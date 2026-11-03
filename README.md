@@ -47,4 +47,3 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 S.O.N.A.R. Crew Toolkit · Program documentation and download information.
-                                                                                                    
